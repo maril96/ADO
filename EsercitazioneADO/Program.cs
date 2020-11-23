@@ -7,7 +7,8 @@ namespace EsercitazioneADO
         static void Main(string[] args)
         {
             ConnectedMode.AgentiAssegnati();
-            ConnectedMode.InserisciAgente();
+            // ConnectedMode.InserisciAgente();
+            ConnectedMode.StampaAgenti();
         }
     }
 }
